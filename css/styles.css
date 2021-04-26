@@ -158,6 +158,10 @@ margin-left: auto;
         url(../images/background-image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+  
+  
+    
+
 }
 
 .hero-flex {
@@ -379,25 +383,32 @@ cursor: pointer;
 }
 .object-one {
     padding: 24px 65px 20px;
+    fill: #AFB1B8;
     
     }
 .object-two {
     padding: 21px 65px 20px;
+    fill: #AFB1B8;
 }
 .object-three {
     padding: 25px 65px 26px 62px;
+    fill: #AFB1B8;
 }
 .object-four{
     padding: 6px 25px;
+    fill: #AFB1B8;
 }
 .object-five {
 padding: 16px 32px;
+fill: #AFB1B8;
 }
 .object-six {
     padding: 16px 32px;
+    fill: #AFB1B8;
 }
 .clients-list-item:hover {
     border: 1px solid var(--secondary-color);
+    fill: var(--secondary-color);
 }
 .object:hover {
     fill: var(--secondary-color);
@@ -528,6 +539,7 @@ height: 38px;
 margin-right: 8px;
 padding: 6px 22px;
 border-radius: 4px;
+border: none;
 }
 .buttons-list .second {
 width: 93px;
@@ -535,6 +547,7 @@ height: 38px;
 margin-right: 8px;
 padding: 6px 22px;
 border-radius: 4px;
+border: none;
 }
 .buttons-list .third {
 width: 114px;
@@ -542,6 +555,7 @@ height: 38px;
 margin-right: 8px;
 padding: 6px 22px;
 border-radius: 4px;
+border: none;
 }
 .buttons-list .fourth {
 width: 91px;
@@ -549,12 +563,14 @@ height: 38px;
 margin-right: 8px;
 padding: 6px 22px;
 border-radius: 4px;
+border: none;
 }
 .buttons-list .fifth {
 width: 121px;
 height: 38px;
 padding: 6px 22px;
 border-radius: 4px;
+border: none;
 }
 
 
